@@ -66,9 +66,3 @@ Edit
 
 Adjust this value depending on your FPGA clock frequency.
 
-## ⚙️ Usage Instructions
-
-1. Clone this repo:
-
-```bash
-git clone https://github.com/your-username/your-repo.git
